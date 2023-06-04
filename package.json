@@ -4,13 +4,15 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "author": "Daver",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
     "jest": "^29.5.0",
+    "clog": "^0.1.6",
     "uuid": "^9.0.0"
   }
 }
