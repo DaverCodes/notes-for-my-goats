@@ -14,5 +14,8 @@
     "jest": "^29.5.0",
     "clog": "^0.1.6",
     "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "heroku": "7.69.0"
   }
 }
